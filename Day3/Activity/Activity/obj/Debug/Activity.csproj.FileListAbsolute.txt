@@ -1,0 +1,7 @@
+C:\Wipro_Training\Day3\Activity\Activity\bin\Debug\Activity.exe.config
+C:\Wipro_Training\Day3\Activity\Activity\bin\Debug\Activity.exe
+C:\Wipro_Training\Day3\Activity\Activity\bin\Debug\Activity.pdb
+C:\Wipro_Training\Day3\Activity\Activity\obj\Debug\Activity.csproj.AssemblyReference.cache
+C:\Wipro_Training\Day3\Activity\Activity\obj\Debug\Activity.csproj.CoreCompileInputs.cache
+C:\Wipro_Training\Day3\Activity\Activity\obj\Debug\Activity.exe
+C:\Wipro_Training\Day3\Activity\Activity\obj\Debug\Activity.pdb
