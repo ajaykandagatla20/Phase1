@@ -1,0 +1,14 @@
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\bin\Debug\net9.0\SwitchExamples.exe
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\bin\Debug\net9.0\SwitchExamples.deps.json
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\bin\Debug\net9.0\SwitchExamples.runtimeconfig.json
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\bin\Debug\net9.0\SwitchExamples.dll
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\bin\Debug\net9.0\SwitchExamples.pdb
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\obj\Debug\net9.0\SwitchExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\obj\Debug\net9.0\SwitchExamples.AssemblyInfoInputs.cache
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\obj\Debug\net9.0\SwitchExamples.AssemblyInfo.cs
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\obj\Debug\net9.0\SwitchExamples.csproj.CoreCompileInputs.cache
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\obj\Debug\net9.0\SwitchExamples.dll
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\obj\Debug\net9.0\refint\SwitchExamples.dll
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\obj\Debug\net9.0\SwitchExamples.pdb
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\obj\Debug\net9.0\SwitchExamples.genruntimeconfig.cache
+C:\Wipro_Training\Day2\EvenOdd\SwitchExamples\obj\Debug\net9.0\ref\SwitchExamples.dll

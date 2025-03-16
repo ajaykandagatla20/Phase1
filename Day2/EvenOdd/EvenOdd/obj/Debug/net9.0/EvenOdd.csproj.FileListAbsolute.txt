@@ -1,0 +1,14 @@
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\obj\Debug\net9.0\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\obj\Debug\net9.0\EvenOdd.AssemblyInfoInputs.cache
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\obj\Debug\net9.0\EvenOdd.AssemblyInfo.cs
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\obj\Debug\net9.0\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\bin\Debug\net9.0\EvenOdd.exe
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\bin\Debug\net9.0\EvenOdd.deps.json
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\bin\Debug\net9.0\EvenOdd.runtimeconfig.json
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\bin\Debug\net9.0\EvenOdd.dll
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\bin\Debug\net9.0\EvenOdd.pdb
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\obj\Debug\net9.0\EvenOdd.dll
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\obj\Debug\net9.0\refint\EvenOdd.dll
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\obj\Debug\net9.0\EvenOdd.pdb
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\obj\Debug\net9.0\EvenOdd.genruntimeconfig.cache
+C:\Wipro_Training\Day2\EvenOdd\EvenOdd\obj\Debug\net9.0\ref\EvenOdd.dll
