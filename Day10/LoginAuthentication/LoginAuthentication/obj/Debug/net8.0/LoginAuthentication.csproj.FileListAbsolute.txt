@@ -1,0 +1,17 @@
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\bin\Debug\net8.0\LoginAuthentication.exe
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\bin\Debug\net8.0\LoginAuthentication.deps.json
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\bin\Debug\net8.0\LoginAuthentication.runtimeconfig.json
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\bin\Debug\net8.0\LoginAuthentication.dll
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\bin\Debug\net8.0\LoginAuthentication.pdb
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\bin\Debug\net8.0\NLog.dll
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\obj\Debug\net8.0\LoginAuthentication.csproj.AssemblyReference.cache
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\obj\Debug\net8.0\LoginAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\obj\Debug\net8.0\LoginAuthentication.AssemblyInfoInputs.cache
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\obj\Debug\net8.0\LoginAuthentication.AssemblyInfo.cs
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\obj\Debug\net8.0\LoginAuthentication.csproj.CoreCompileInputs.cache
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\obj\Debug\net8.0\LoginAut.B432AA69.Up2Date
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\obj\Debug\net8.0\LoginAuthentication.dll
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\obj\Debug\net8.0\refint\LoginAuthentication.dll
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\obj\Debug\net8.0\LoginAuthentication.pdb
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\obj\Debug\net8.0\LoginAuthentication.genruntimeconfig.cache
+C:\Wipro_Training\Day10\LoginAuthentication\LoginAuthentication\obj\Debug\net8.0\ref\LoginAuthentication.dll
