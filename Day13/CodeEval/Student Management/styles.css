@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+#timetable {
+    display: none; /* Initially hide the timetable */
+}
