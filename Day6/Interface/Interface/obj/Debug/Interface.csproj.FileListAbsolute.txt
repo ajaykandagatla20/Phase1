@@ -1,0 +1,7 @@
+C:\Wipro_Training\Day6\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Wipro_Training\Day6\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Wipro_Training\Day6\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Wipro_Training\Day6\Interface\Interface\bin\Debug\Interface.exe
+C:\Wipro_Training\Day6\Interface\Interface\bin\Debug\Interface.pdb
+C:\Wipro_Training\Day6\Interface\Interface\obj\Debug\Interface.exe
+C:\Wipro_Training\Day6\Interface\Interface\obj\Debug\Interface.pdb
