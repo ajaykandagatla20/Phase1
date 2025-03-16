@@ -1,0 +1,14 @@
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\bin\Debug\net9.0\Mam example Arrays.exe
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\bin\Debug\net9.0\Mam example Arrays.deps.json
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\bin\Debug\net9.0\Mam example Arrays.runtimeconfig.json
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\bin\Debug\net9.0\Mam example Arrays.dll
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\bin\Debug\net9.0\Mam example Arrays.pdb
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\obj\Debug\net9.0\Mam example Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\obj\Debug\net9.0\Mam example Arrays.AssemblyInfoInputs.cache
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\obj\Debug\net9.0\Mam example Arrays.AssemblyInfo.cs
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\obj\Debug\net9.0\Mam example Arrays.csproj.CoreCompileInputs.cache
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\obj\Debug\net9.0\Mam example Arrays.dll
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\obj\Debug\net9.0\refint\Mam example Arrays.dll
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\obj\Debug\net9.0\Mam example Arrays.pdb
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\obj\Debug\net9.0\Mam example Arrays.genruntimeconfig.cache
+C:\Wipro_Training\Day2\Mam example Arrays\Mam example Arrays\obj\Debug\net9.0\ref\Mam example Arrays.dll
