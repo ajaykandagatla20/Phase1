@@ -1,0 +1,2 @@
+C:\Wipro_Training\Day8\Reflection\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Wipro_Training\Day8\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
