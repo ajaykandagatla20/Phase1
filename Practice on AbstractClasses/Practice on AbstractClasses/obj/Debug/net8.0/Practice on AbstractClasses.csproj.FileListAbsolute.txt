@@ -1,0 +1,14 @@
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\obj\Debug\net8.0\Practice on AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\obj\Debug\net8.0\Practice on AbstractClasses.AssemblyInfoInputs.cache
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\obj\Debug\net8.0\Practice on AbstractClasses.AssemblyInfo.cs
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\obj\Debug\net8.0\Practice on AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\bin\Debug\net8.0\Practice on AbstractClasses.exe
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\bin\Debug\net8.0\Practice on AbstractClasses.deps.json
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\bin\Debug\net8.0\Practice on AbstractClasses.runtimeconfig.json
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\bin\Debug\net8.0\Practice on AbstractClasses.dll
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\bin\Debug\net8.0\Practice on AbstractClasses.pdb
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\obj\Debug\net8.0\Practice on AbstractClasses.dll
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\obj\Debug\net8.0\refint\Practice on AbstractClasses.dll
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\obj\Debug\net8.0\Practice on AbstractClasses.pdb
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\obj\Debug\net8.0\Practice on AbstractClasses.genruntimeconfig.cache
+C:\Wipro_Training\Practice on AbstractClasses\Practice on AbstractClasses\obj\Debug\net8.0\ref\Practice on AbstractClasses.dll

@@ -1,0 +1,14 @@
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\bin\Debug\net8.0\Practice on Interfaces.exe
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\bin\Debug\net8.0\Practice on Interfaces.deps.json
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\bin\Debug\net8.0\Practice on Interfaces.runtimeconfig.json
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\bin\Debug\net8.0\Practice on Interfaces.dll
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\bin\Debug\net8.0\Practice on Interfaces.pdb
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\obj\Debug\net8.0\Practice on Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\obj\Debug\net8.0\Practice on Interfaces.AssemblyInfoInputs.cache
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\obj\Debug\net8.0\Practice on Interfaces.AssemblyInfo.cs
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\obj\Debug\net8.0\Practice on Interfaces.csproj.CoreCompileInputs.cache
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\obj\Debug\net8.0\Practice on Interfaces.dll
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\obj\Debug\net8.0\refint\Practice on Interfaces.dll
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\obj\Debug\net8.0\Practice on Interfaces.pdb
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\obj\Debug\net8.0\Practice on Interfaces.genruntimeconfig.cache
+C:\Wipro_Training\Practice on Interfaces\Practice on Interfaces\obj\Debug\net8.0\ref\Practice on Interfaces.dll

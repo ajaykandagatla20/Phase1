@@ -1,0 +1,14 @@
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\bin\Debug\net8.0\Dependency Inversion Principle example.exe
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\bin\Debug\net8.0\Dependency Inversion Principle example.deps.json
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\bin\Debug\net8.0\Dependency Inversion Principle example.runtimeconfig.json
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\bin\Debug\net8.0\Dependency Inversion Principle example.dll
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\bin\Debug\net8.0\Dependency Inversion Principle example.pdb
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\obj\Debug\net8.0\Dependency Inversion Principle example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\obj\Debug\net8.0\Dependency Inversion Principle example.AssemblyInfoInputs.cache
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\obj\Debug\net8.0\Dependency Inversion Principle example.AssemblyInfo.cs
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\obj\Debug\net8.0\Dependency Inversion Principle example.csproj.CoreCompileInputs.cache
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\obj\Debug\net8.0\Dependency Inversion Principle example.dll
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\obj\Debug\net8.0\refint\Dependency Inversion Principle example.dll
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\obj\Debug\net8.0\Dependency Inversion Principle example.pdb
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\obj\Debug\net8.0\Dependency Inversion Principle example.genruntimeconfig.cache
+C:\Wipro_Training\Dependency Inversion Principle example\Dependency Inversion Principle example\obj\Debug\net8.0\ref\Dependency Inversion Principle example.dll
